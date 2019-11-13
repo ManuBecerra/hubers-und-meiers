@@ -28,3 +28,14 @@ div{
 #georg,#susi{
   background-color: pink;
 }
+#brigitte{
+  background-color: gray;
+}
+
+.meier #brigitte{
+  background-color: orange;
+}
+
+.meier div#brigitte{
+  background-color: lightblue;
+}
