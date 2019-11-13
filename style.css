@@ -8,3 +8,23 @@ div{
   border: 1px solid black;
   margin: 5px;
 }
+
+
+.huber{
+  background-color: red;
+}
+
+.meier{
+  background-color: blue;
+}
+
+#lisa{
+  background-color: yellow;
+}
+#luis{
+  background-color: green;
+}
+
+#georg,#susi{
+  background-color: pink;
+}
